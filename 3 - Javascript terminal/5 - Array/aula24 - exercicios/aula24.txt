@@ -1,0 +1,35 @@
+Exercício 1
+No primeiro exercício vamos praticar a criação de arrays. Crie 3 arrays diferentes:
+
+O primeiro deve possuir apenas números, e estes números não devem seguir nenhuma ordem específica;
+O segundo array deve possuir apenas strings;
+O terceiro array deve possuir números, strings e booleanos.
+Imprima cada um dos arrays acima, utilizando console.log()
+
+/*--------------------------------------------------------------------------------------------------*/
+
+Exercício 2
+Com os arrays criados no exercício 1, vamos fazer algumas observações. Faça o que se pede abaixo, utilizando console.log():
+
+a) Crie uma função que recebe os 3 arrays por parâmetro e imprima a quantidade de itens de cada array (utilize o console.log() para cada impressão).
+
+b) Crie outra função que recebe os 3 arrays por parâmetro e imprima o primeiro item do primeiro array, o segundo item do segundo array, e o terceiro item do terceiro array.
+
+c) Na mesma função Verifique se um item está incluído no primeiro array e depois no terceiro array. Imprima o resultado dessas verificações no console.log(). A primeira impressão deve ser um booleano true e a segunda deve ser um booleano false.
+
+Obs: copie os arrays criados no exercício 1 para dentro do arquivo script.js do exercício 2.
+
+/*--------------------------------------------------------------------------------------------------*/
+
+Exercício 3
+Agora, vamos manipular os arrays, adicionando ou removendo informações. Para isso, crie três novos arrays, chamados nomeDoArrayOriginalCopia. Por exemplo, se o seu primeiro array se chama meusNumeros, você deve criar um array meusNumerosCopia, e assim por diante. Copie cada um dos arrays originais para sua respectiva cópia usando o método slice().
+
+Faça o que se pede abaixo nas cópias dos arrays originais:
+
+a) Crie uma função que recebe o primeiro array como parâmetro e adicione um item number ao início do primeiro array. Utilize console.log() para imprimir o original e a cópia.
+
+b) Crie uma função que recebe o segundo array por parâmetro e remova o último item do segundo array. Utilize console.log() para exibir o original e a cópia.
+
+c) Crie uma função que recebe por parâmetro o terceiro array e remova o segundo item do terceiro array. Utilize console.log() para exibir o original e a cópia.
+
+Obs: copie os arrays criados no exercício 1 para dentro do arquivo script.js do exercício 3.

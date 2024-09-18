@@ -1,0 +1,67 @@
+Exercício 1
+Crie um array vazio chamado sacolao, e siga os passos abaixo:
+
+a) Fora do array, crie três objetos que vão representar frutas do sacolão. Os objetos devem ter as seguintes propriedades:
+
+nome: string;
+preco: number;
+disponibilidade: boolean;
+b) Adicione os objetos ao array sacolao utilizando o método push().
+
+c) Imprima o array sacolao, e certifique-se de que agora ele seja um array com três objetos.
+
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+Exercício 2
+Leia o código abaixo, e responda:
+
+const filme = {
+	nome: "Auto da Compadecida", 
+	ano: 2000, 
+	elenco: [
+		"Matheus Nachtergaele", "Selton Mello", "Denise Fraga", 
+		"Virginia Cavendish"
+		], 
+	transmissoesHoje: [
+		{canal: "Telecine", horario: "21h"}, 
+		{canal: "Canal Brasil", horario: "19h"}, 
+		{canal: "Globo", horario: "14h"}
+		]
+}
+a) Qual o código para imprimir o nome do primeiro ator/atriz?
+
+b) Qual o código para imprimir o nome do último ator/atriz?
+
+c) Qual o código para exibir o array com todas as transmissões de hoje?
+
+d) Qual o código para exibir o horário de transmissão do filme no Canal Brasil?
+
+Dica: construa os caminhos para chegar em cada valor aos poucos, sempre verificando o que é exibido no console.
+
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+Exercício 3
+Observe o objeto abaixo e, utilizando o espalhamento (ou spread), resolva os exercícios a seguir:
+
+const pokemon1 = {
+	nome: "Bulbasaur",
+	tipo: "Grama",
+	nivel: 5
+}
+a) Crie uma cópia do objeto acima, mantendo a estrutura, mas trocando nome por “Squirtle” e tipo por “Água”.
+
+b) No objeto original, adicione mais uma propriedade, chamada ataques. Esta propriedade deve guardar um array que deve começar vazio.
+
+c) Crie um objeto de ataque com a estrutura abaixo e o adicione no array ataques, utilizando **push()**:
+
+nome: "Investida",
+dano: 40,
+tipo: "Normal",
+precisao: 100
+d) Na cópia do objeto original, ou seja, no objeto que representa o Squirtle, adicione a propriedade ataques a partir do espalhamento da propriedade de mesmo nome criada para o objeto original.
+
+e) Para o objeto original, adicione no array de ataques o seguinte ataque: “Folha Navalha”, com 45 de dano, 100 de precisão, e do tipo “Grama”.
+
+f) Para a cópia, crie o ataque “Jato de Água”, com 40 de dano, 100 de precisão, e do tipo “Água”; e adicione no array de ataques.
+
+g) Imprima ambos os objetos no console e verifique se todas as informações adicionadas aparecem na impressão.

@@ -1,0 +1,65 @@
+Exercício 1
+Crie uma função que receba uma const numérica qualquer. Crie um if para verificar se o número guardado na const é par. Caso seja, a função deve retornar a mensagem: "o número é par". Depois disso, imprima o retorno no console.
+
+/*--------------------------------------------------------------------------------*/
+
+Exercício 2
+Escreva uma função que receba três valores. Uma idade, um booleano que responde se a pessoa terminou ou não o ensino médio, e um booleano que responda se a pessoa está cursando alguma faculdade.
+
+Crie um if para cada variável, checando as seguintes afirmacões:
+
+Se a pessoa tem 18 anos ou mais;
+Se a pessoa terminou o ensino médio;
+Se a pessoa NÃO está cursando alguma faculdade;
+Crie um if que imprima que a afirmacão é verdadeira, e um else para imprimir que a afirmacão não é verdadeira.
+
+/*--------------------------------------------------------------------------------*/
+
+Exercício 3
+Crie uma função que recebe do usuário sua nacionalidade, utilizando um prompt com a seguinte mensagem: "Escreva aqui sua nacionalidade." e guarde o valor da resposta em uma const nacionalidade.
+
+Vamos considerar que nosso programa aceita as seguintes 5 nacionalidades:
+
+brasileira;
+argentina;
+uruguaia;
+chilena;
+colombiana;
+Crie uma estrutura de if/else if/else que verifique se a nacionalidade guardada na const nacionalidade é igual a uma das nacionalidades acima, e caso seja, imprima a nacionalidade no console. O último else deve imprimir "nacionalidade não encontrada" caso o valor de nacionalidade não corresponda a nenhuma das possibilidades acima.
+
+/*--------------------------------------------------------------------------------*/
+
+Exercício 4
+Crie um código que receba tenha um numero e verifique se esse número é divisível por 2 ou por 3.
+
+/*--------------------------------------------------------------------------------*/
+
+Exercício 5
+Vamos recriar o exercício Nacionalidade da aula de Condicionais I, dessa vez utilizando o switch case. 
+
+-> Relembrando o enunciado:
+
+Crie uma função que receba do usuário sua nacionalidade, utilizando um prompt que diga: "Escreva aqui sua nacionalidade". Guarde o valor da resposta em uma const nacionalidade.
+
+Vamos considerar que nosso programa aceita as seguintes 5 nacionalidades:
+
+brasileira;
+argentina;
+uruguaia;
+chilena;
+colombiana;
+Crie uma estrutura com o switch case que verifique se a nacionalidade recebida é igual a alguma das nacionalidades acima. Caso seja, imprima a nacionalidade no console. O programa deve imprimir "nacionalidade não encontrada" caso o valor de nacionalidade não corresponda a nenhum das opções acima.
+
+/*--------------------------------------------------------------------------------*/
+
+Exercício 6
+Reescreva os códigos do arquivo utilizando o if ternário.
+
+Relembrando o if ternário
+
+condição ? expr1 : expr2
+Em que:
+
+condição é uma expressão que é avaliada como true ou false
+
+expr1 e expr2 são expressões com valores de qualquer tipo

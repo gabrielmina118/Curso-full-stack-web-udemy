@@ -1,0 +1,30 @@
+Exercício 1
+a) Declare uma função que imprima Olá, [SEU NOME]!. Chame esta função.
+
+b) Declare uma função que receba um número como parâmetro e imprima no console a tabuada de 1 a 10 dele. Chame esta função várias vezes com números diferentes.
+
+c) Comente as funções criadas acima, e reescreva-as utilizando expressões de função, ou arrow functions
+
+/*---------------------------------------------------------------------------------------------*/
+
+Exercício 2
+Declare e invoque as funções abaixo:
+
+a) Uma função que recebe 2 números como parâmetros e que imprime a soma deles. Invoque a função e verifique o resultado no console.
+
+b) Uma função que recebe 2 números e imprime um booleano que informa se o primeiro número é maior ou igual ao segundo.
+
+c) Uma função que recebe um número e imprime no console um booleano informando se o número é par ou não.
+
+d) Uma função que recebe um salário bruto e retorna o salário líquido com desconto de 10%, referente ao INSS.
+
+/*---------------------------------------------------------------------------------------------*/
+
+Exercício 3
+a) Crie 4 funções. Cada função deve receber dois parâmetros numéricos e retornar o valor de uma das operações básicas (soma, subtração, multiplicação e divisão).
+
+b) Em seguida, fora das funções, receba do usuário dois números e armazene-os em variáveis.
+
+c) Invoque cada uma das 4 funções, passando como argumento os dois números recebidos do usuário.
+
+d) Por fim, crie variáveis para receber o retorno de cada uma das funções e imprima o resultado das operações no console.

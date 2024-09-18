@@ -1,0 +1,1 @@
+// link do gifs -> https://labenu.notion.site/Combina-o-de-la-os-e-condicionais-e-simplificando-a-leitura-de-arrays-e-objetos-211bd3ece77a48b2a2afbfb58839d810

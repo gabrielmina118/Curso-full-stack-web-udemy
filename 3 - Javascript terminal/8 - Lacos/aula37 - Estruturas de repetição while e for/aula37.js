@@ -1,0 +1,1 @@
+// link do gif -> https://labenu.notion.site/Estruturas-de-repeti-o-while-e-for-9cd2259a765e4441a1e4b27e13a40819
