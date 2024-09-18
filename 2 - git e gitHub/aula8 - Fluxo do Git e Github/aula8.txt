@@ -1,0 +1,5 @@
+* Fase 1 - Diretorio do trabalho
+* Fase 2 - Preparação (Stage area)
+* Fase 3 - Comprometer (Commit)
+* Fase 4 - Envio (Push)
+* Fase 5 - Pull request e merge

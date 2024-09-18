@@ -1,0 +1,8 @@
+pwd - Mostrar a pasta atual 
+cd - Mudar de pasta
+cp - Copiar arquivos
+mv - Mover arquivos
+rm - Remover arquivos
+ls - Listar todo o conteúdo do diretório
+clear - limpar a tela do terminal
+⬆️⬇️ Setas para cima e para baixo do teclado

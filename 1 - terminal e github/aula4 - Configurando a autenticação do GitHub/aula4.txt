@@ -1,0 +1,7 @@
+Realizar commit e enviar informações
+
+- git config --global user.name "Seu nome"
+- git config --global user.email "seuemail@example.com"
+
+- Verifique se as credenciais foram registradas corretamente, digitando o seguinte comando no terminal:
+git config --global --list

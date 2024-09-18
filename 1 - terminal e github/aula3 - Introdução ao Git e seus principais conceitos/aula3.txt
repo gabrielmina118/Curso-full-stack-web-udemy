@@ -1,0 +1,5 @@
+- Criar conta no github
+- Criar um repositório no github
+- Baixando repositório
+
+- git clone e git branch

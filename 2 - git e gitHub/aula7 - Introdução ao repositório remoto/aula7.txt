@@ -1,0 +1,8 @@
+- git checkout <Nova Branch>
+- git status
+- git add .
+- git commit -m "Mensagem"
+- git push origin <Nome da branch>
+- Abrindo um Pull Request
+- Realizando o merge
+- git pull origin main

@@ -1,0 +1,25 @@
+git clone → Clona um repositório já existente no github.
+Sintaxe: `git clone <<url-do-repo.git>>`
+
+git branch → Lista todas as branches presentes naquele repositório
+Sintaxe: `git branch`
+
+git checkout <nome> → entra na branch com o nome selecionado
+Sintaxe: `git checkout exemplo-de-nome`
+
+git status → lista as mudanças realizadas na branch desde o último commit
+Sintaxe: `git status`
+
+git add → Adiciona arquivos para a staging area. Pode ser feito arquivo por arquivo ou adicionar a pasta inteira do projeto.
+Sintaxe:
+`git add --all` → Adiciona todos os arquivos que ainda não foram adicionados
+`git add .` → Adiciona todos arquivos da pasta atual
+
+git commit → Permite a criação de um novo commit, isto é, uma nova etiqueta das alterações do código em um determinado momento do tempo.
+Sintaxe: `git commit -m "Descrição da alteração"`
+
+git push → Sobe os commits realizados para o github (ou outra plataforma de nuvem)
+Sintaxe: `git push origin nome-da-branch`
+
+git pull → Baixa as atualizações do repositório remoto para o repositório local.
+Sintaxe: `git pull origin nome-da-branch`

@@ -1,0 +1,15 @@
+Terminal e Introdução ao Git - Exercício
+Vamos executar algumas coisas no repositório:
+
+Exercício 1
+Faça um Clone deste repositório.
+
+Exercício 2
+Na raiz do seu repositório local, utilizando o terminal, use o comando git branch para verificar a branch atual. A branch atual deve ser a main.
+
+Crie uma branch chamada minha-bio e, depois, entre nessa branch.
+
+Nesta branch, crie uma pasta chamada minha-bio e, dentro dessa pasta, crie um arquivo chamado minha-bio.txt
+
+Exercício 3
+Nesse arquivo, você deve escrever uma mini biografia sua.

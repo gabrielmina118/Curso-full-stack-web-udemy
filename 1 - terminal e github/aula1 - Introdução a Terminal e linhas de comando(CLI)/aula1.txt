@@ -1,0 +1,1 @@
+Mostando como funciona o terminal ( Bash , cmd e powershell)
